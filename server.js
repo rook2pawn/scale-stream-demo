@@ -21,6 +21,7 @@ swarm.start();
 
 var webserver = http.createServer(webapp);
 webserver.listen(5555);
+console.log("Web server listening on http://localhost:5555");
 webapp.fileserver(ecstatic);
 var sock = shoe(function (stream) {
   var id = stream.id;
