@@ -1,0 +1,22 @@
+{
+  "name": "scale-stream-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify client.js -o web/bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "browserify": "^13.1.1",
+    "dnode": "^1.2.2",
+    "ecstatic": "^2.1.0",
+    "mux-demux": "^3.7.9",
+    "request": "^2.79.0",
+    "router-middleware": "^2.1.3",
+    "shoe": "0.0.15",
+    "through2": "^2.0.3"
+  }
+}
