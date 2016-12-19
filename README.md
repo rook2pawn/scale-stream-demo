@@ -23,4 +23,4 @@ through the webserver.
 Screenshot
 -----------
 
-![screenshot](https://github.com/rook2pawn/scale-stream-demo/screenshot.png "screenshot")
+![screenshot](https://github.com/rook2pawn/scale-stream-demo/blob/master/screenshot.png "screenshot")
